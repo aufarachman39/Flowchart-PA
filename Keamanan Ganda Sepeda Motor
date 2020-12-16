@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T06:00:50.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.0.3" etag="FTXpmutkF8I1iVHcJISm" type="github"><diagram id="5meMdnA5MGJoXc9RuxND">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-16T06:11:04.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="JoJ1aGRstyOQyiq_kSzF" version="14.0.3" type="github">
+  <diagram id="5meMdnA5MGJoXc9RuxND" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-2" value="Tempelkan RFID" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-3" value="Cek&amp;nbsp; RFID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-4" value="Apa RFID&lt;br&gt;Terdaftar ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-5" value="Cek Kondisi Relay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-7" value="Apa Relay&lt;br&gt;ON ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="720" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-8" value="Mengubah Kondisi Relay Menjadi OFF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-9" value="Kirim Notofikasi SMS&lt;br&gt;&quot; RFID Tidak Terdaftar&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="505" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-10" value="Kirim Notifikasi SMS&lt;br&gt;&quot;Relay OFF&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="960" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-11" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-12" value="Mengubah Kondisi Relay Menjadi ON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-13" value="Kirim Notifikasi SMS&lt;br&gt;&quot;Relay ON&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="830" width="145" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
