@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T06:18:52.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Kt85J349gRfAI5NbuXe9" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T06:19:40.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="17D7gtKBpvSgnn3VcaMv" version="14.0.3" type="github">
   <diagram id="5meMdnA5MGJoXc9RuxND" name="Page-1">
     <mxGraphModel dx="723" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m7WezQ0gE4Q601KwcQ1d-9" value="Kirim Notofikasi SMS&lt;br&gt;&quot; RFID Tidak Terdaftar&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-9" value="Kirim Notifikasi SMS&lt;br&gt;&quot; RFID Tidak Terdaftar&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="577.5" y="485" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m7WezQ0gE4Q601KwcQ1d-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m7WezQ0gE4Q601KwcQ1d-10" target="m7WezQ0gE4Q601KwcQ1d-11">
