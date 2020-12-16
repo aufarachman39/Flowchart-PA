@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T06:16:06.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7w7HEoTWz1vFFI0zkrPz" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T06:16:44.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="G1Oz-ZMa0XErq9G_R_XQ" version="14.0.3" type="github">
   <diagram id="5meMdnA5MGJoXc9RuxND" name="Page-1">
-    <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,17 @@
         <mxCell id="m7WezQ0gE4Q601KwcQ1d-5" value="Cek Kondisi Relay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m7WezQ0gE4Q601KwcQ1d-7" target="m7WezQ0gE4Q601KwcQ1d-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m7WezQ0gE4Q601KwcQ1d-7" target="m7WezQ0gE4Q601KwcQ1d-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m7WezQ0gE4Q601KwcQ1d-7" value="Apa Relay&lt;br&gt;ON ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="680" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m7WezQ0gE4Q601KwcQ1d-8" target="m7WezQ0gE4Q601KwcQ1d-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m7WezQ0gE4Q601KwcQ1d-8" value="Mengubah Kondisi Relay Menjadi OFF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="820" width="120" height="60" as="geometry" />
@@ -55,14 +64,28 @@
         <mxCell id="m7WezQ0gE4Q601KwcQ1d-9" value="Kirim Notofikasi SMS&lt;br&gt;&quot; RFID Tidak Terdaftar&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="577.5" y="485" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m7WezQ0gE4Q601KwcQ1d-10" target="m7WezQ0gE4Q601KwcQ1d-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m7WezQ0gE4Q601KwcQ1d-10" value="Kirim Notifikasi SMS&lt;br&gt;&quot;Relay OFF&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="910" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m7WezQ0gE4Q601KwcQ1d-11" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m7WezQ0gE4Q601KwcQ1d-12" target="m7WezQ0gE4Q601KwcQ1d-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m7WezQ0gE4Q601KwcQ1d-12" value="Mengubah Kondisi Relay Menjadi ON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592.5" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7WezQ0gE4Q601KwcQ1d-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="m7WezQ0gE4Q601KwcQ1d-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="653" y="980" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="m7WezQ0gE4Q601KwcQ1d-13" value="Kirim Notifikasi SMS&lt;br&gt;&quot;Relay ON&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="820" width="145" height="60" as="geometry" />
