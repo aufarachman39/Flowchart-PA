@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T01:12:36.988Z" agent="5.0 (Windows)" etag="EqiRNQsepf8f-w_vR8kN" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T01:13:25.545Z" agent="5.0 (Windows)" etag="idbfXwq8Tbn6mF0SK4qF" version="14.1.1" type="github">
   <diagram id="56Go-gq-7w3DxhV44uWK" name="Page-1">
     <mxGraphModel dx="782" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-15" value="Back" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="90" y="535" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-16" value="Ok" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-16" value="Foward" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="120" y="535" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-17" value="AC 220-240V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-34" value="Alarm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-35" value="Ok" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="150" y="535" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
