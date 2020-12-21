@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T01:24:39.290Z" agent="5.0 (Windows)" etag="UvD4Ogmsfcq-MI1n3vBt" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T01:25:06.841Z" agent="5.0 (Windows)" etag="UGZLLCMYzazIvSYOx3ZZ" version="14.1.1" type="github">
   <diagram id="56Go-gq-7w3DxhV44uWK" name="Page-1">
     <mxGraphModel dx="1222" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,6 +48,15 @@
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-9" value="Push Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k7p3xYgrQuZx1QTl7_Ga-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="480" />
+              <mxPoint x="60" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-10" value="Up" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-45" y="535" width="90" height="30" as="geometry" />
@@ -158,6 +167,15 @@
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-34" value="Alarm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k7p3xYgrQuZx1QTl7_Ga-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="480" />
+              <mxPoint x="120" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-35" value="Ok" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="135" y="535" width="90" height="30" as="geometry" />
