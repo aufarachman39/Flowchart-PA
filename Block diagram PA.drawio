@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T00:59:39.862Z" agent="5.0 (Windows)" etag="Ve5CZAzR7pLu2OhFbzUr" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T01:08:01.306Z" agent="5.0 (Windows)" etag="PJ4z1-aUL4ZKgkikYWXr" version="14.1.1" type="github">
   <diagram id="56Go-gq-7w3DxhV44uWK" name="Page-1">
     <mxGraphModel dx="782" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;ESP32&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="330" y="220" width="130" height="130" as="geometry" />
+          <mxGeometry x="350" y="180" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-3" value="&lt;div&gt;OUT&lt;/div&gt;Circuit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="160" width="60" height="250" as="geometry" />
+          <mxGeometry x="600" y="160" width="60" height="250" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-5" value="&lt;div&gt;INPUT&lt;br&gt;&lt;/div&gt;Circuit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="60" height="250" as="geometry" />
@@ -44,13 +44,40 @@
           <mxGeometry x="120" y="535" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-17" value="AC 220-240V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="580" width="310" height="60" as="geometry" />
+          <mxGeometry x="285" y="540" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-18" value="&lt;div&gt;Regulator&lt;/div&gt;&lt;div&gt;5V &amp;amp; 3V3&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-19" value="Power Supply 12V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-20" value="Relay 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-21" value="Relay 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-22" value="Relay 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-23" value="Relay 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-24" value="Relay 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-25" value="Relay 6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-26" value="Relay 7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-27" value="Relay 8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-28" value="Relay 9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="440" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
