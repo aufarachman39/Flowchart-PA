@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T01:17:55.568Z" agent="5.0 (Windows)" etag="rj8bVJM4xEolZx7-Slb7" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T01:19:19.841Z" agent="5.0 (Windows)" etag="CaJEh3bGR82rJEW_4ekH" version="14.1.1" type="github">
   <diagram id="56Go-gq-7w3DxhV44uWK" name="Page-1">
     <mxGraphModel dx="1632" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,6 +105,12 @@
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-38" value="LED Indikator" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="412.5" y="77.5" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-39" value="Server" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="368" y="77.5" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-40" value="RTC" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="320" y="77.5" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
