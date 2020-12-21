@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T01:08:01.306Z" agent="5.0 (Windows)" etag="PJ4z1-aUL4ZKgkikYWXr" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T01:10:52.288Z" agent="5.0 (Windows)" etag="zahu16LB6SnK92WE6cpg" version="14.1.1" type="github">
   <diagram id="56Go-gq-7w3DxhV44uWK" name="Page-1">
     <mxGraphModel dx="782" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,6 +78,15 @@
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-28" value="Relay 9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-29" value="Fan 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-30" value="Group Fan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="160" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-31" value="Cooling Pad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="320" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
