@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T01:21:13.993Z" agent="5.0 (Windows)" etag="xdT8p6OfgYp38NsKavO4" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T01:21:38.639Z" agent="5.0 (Windows)" etag="zPofjk5HCwNzuUR-rvok" version="14.1.1" type="github">
   <diagram id="56Go-gq-7w3DxhV44uWK" name="Page-1">
     <mxGraphModel dx="1632" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -98,16 +98,16 @@
           <mxGeometry x="135" y="535" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-37" value="LCD" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="457.5" y="77.5" width="115" height="30" as="geometry" />
+          <mxGeometry x="451.25" y="60" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-38" value="LED Indikator" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="77.5" width="115" height="30" as="geometry" />
+          <mxGeometry x="406.25" y="60" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-39" value="Server" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="368" y="77.5" width="115" height="30" as="geometry" />
+          <mxGeometry x="361.75" y="60" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-40" value="RTC" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="320" y="77.5" width="115" height="30" as="geometry" />
+          <mxGeometry x="313.75" y="60" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
