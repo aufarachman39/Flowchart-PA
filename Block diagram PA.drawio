@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T01:35:43.696Z" agent="5.0 (Windows)" etag="Wat_vOyFYTfgexjhKela" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T01:36:00.508Z" agent="5.0 (Windows)" etag="i2LGWHMnTigvDUI6G0hg" version="14.1.1" type="github">
   <diagram id="56Go-gq-7w3DxhV44uWK" name="Page-1">
-    <mxGraphModel dx="1297" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1770" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,7 +247,7 @@
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-32" value="Heater" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="350" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-33" value="Curtain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k7p3xYgrQuZx1QTl7_Ga-33" value="Feeding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="390" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-34" value="Alarm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
