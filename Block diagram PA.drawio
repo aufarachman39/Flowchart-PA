@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T01:14:01.404Z" agent="5.0 (Windows)" etag="6s1sMs4fVrk1XQyPsYPS" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T01:16:36.761Z" agent="5.0 (Windows)" etag="CsIdy8-yCcqv7bDapvEj" version="14.1.1" type="github">
   <diagram id="56Go-gq-7w3DxhV44uWK" name="Page-1">
     <mxGraphModel dx="1632" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,22 +80,22 @@
           <mxGeometry x="720" y="430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-29" value="Fan 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="120" width="120" height="30" as="geometry" />
+          <mxGeometry x="910" y="110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-30" value="Group Fan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="160" width="120" height="150" as="geometry" />
+          <mxGeometry x="910" y="150" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-31" value="Cooling Pad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="320" width="120" height="30" as="geometry" />
+          <mxGeometry x="910" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-32" value="Heater" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="360" width="120" height="30" as="geometry" />
+          <mxGeometry x="910" y="350" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-33" value="Curtain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="400" width="120" height="30" as="geometry" />
+          <mxGeometry x="910" y="390" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-34" value="Alarm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="440" width="120" height="30" as="geometry" />
+          <mxGeometry x="910" y="430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7p3xYgrQuZx1QTl7_Ga-35" value="Ok" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="135" y="535" width="90" height="30" as="geometry" />
