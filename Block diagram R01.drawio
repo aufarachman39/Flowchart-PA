@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T08:17:56.344Z" agent="5.0 (Windows)" etag="P6rnKcsrBG3w7Ks0drpQ" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T08:51:39.205Z" agent="5.0 (Windows)" etag="XNFoa-M_bEWLDRb964CW" version="14.1.1" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
-    <mxGraphModel dx="1626" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="532" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,9 +284,6 @@
             <mxPoint x="660" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-91" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="-780" width="1150" height="580" as="geometry" />
-        </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-94" value="SD Card" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="289.38" y="80" width="115" height="30" as="geometry" />
         </mxCell>
@@ -294,13 +291,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-101" value="&lt;div&gt;Motor Breaker 1&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="580" width="120" height="40" as="geometry" />
+          <mxGeometry x="365" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-103" value="MCB 1 Phasa" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-104" value="MCCB" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="520" width="120" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-109" value="&lt;div&gt;Motor Breaker 2&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="560" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-110" value="&lt;div&gt;Motor Breaker 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-111" value="&lt;div&gt;Motor Breaker 4&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-112" value="&lt;div&gt;Motor Breaker 5&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="680" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-113" value="&lt;div&gt;Motor Breaker 6&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-114" value="&lt;div&gt;Motor Breaker 7&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="760" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-115" value="&lt;div&gt;Motor Breaker 8&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="800" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
