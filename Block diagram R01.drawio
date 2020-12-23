@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T09:59:50.290Z" agent="5.0 (Windows)" etag="a4osxe8nqhIOMwHQ7W3f" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T10:01:24.719Z" agent="5.0 (Windows)" etag="UFP5V-aDmiVTiSwba5KJ" version="14.1.1" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
-    <mxGraphModel dx="1492" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -356,6 +356,16 @@
             <mxPoint x="220" y="752.4285714285713" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="753" />
+              <mxPoint x="190" y="870" />
+              <mxPoint x="230" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-104" value="MCCB" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="520" width="120" height="310" as="geometry" />
         </mxCell>
@@ -440,6 +450,11 @@
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-133" value="MCB 1 Phasa" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="850" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="535.2857142857143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-134" value="iRCP" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="520" width="120" height="30" as="geometry" />
         </mxCell>
@@ -487,6 +502,9 @@
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-166" value="Netral" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-60" y="855" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-168" value="MCB 1 Phasa" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="850" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
