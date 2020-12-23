@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T09:42:03.780Z" agent="5.0 (Windows)" etag="KwJrMgyi_bmu6pqNihHG" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T09:42:47.767Z" agent="5.0 (Windows)" etag="45GCOyAbKeNwXhM-Fdkj" version="14.1.1" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
-    <mxGraphModel dx="1862" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="642" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,16 +171,16 @@
           <mxGeometry x="690" y="350" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-51" value="&lt;div&gt;Fan 2 - 5&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="560" width="120" height="160" as="geometry" />
+          <mxGeometry x="700" y="610" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-52" value="Cooling Pad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="732.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="700" y="770" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-53" value="Heater" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="780" width="120" height="30" as="geometry" />
+          <mxGeometry x="700" y="810" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-54" value="Alarm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="830" width="120" height="30" as="geometry" />
+          <mxGeometry x="700" y="850" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-57">
           <mxGeometry relative="1" as="geometry">
@@ -230,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-66" value="Fan 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="520" width="120" height="30" as="geometry" />
+          <mxGeometry x="700" y="570" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-67" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
