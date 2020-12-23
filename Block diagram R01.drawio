@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T09:42:47.767Z" agent="5.0 (Windows)" etag="45GCOyAbKeNwXhM-Fdkj" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T09:43:32.132Z" agent="5.0 (Windows)" etag="PA6kjmx0kEq0kCvrHWEy" version="14.1.1" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
     <mxGraphModel dx="642" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -180,7 +180,7 @@
           <mxGeometry x="700" y="810" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-54" value="Alarm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="850" width="120" height="30" as="geometry" />
+          <mxGeometry x="700" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-57">
           <mxGeometry relative="1" as="geometry">
@@ -340,9 +340,6 @@
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-114" value="&lt;div&gt;Motor Breaker 7&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="810" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-115" value="&lt;div&gt;Motor Breaker 8&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="850" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-120" value="R" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="570" width="40" height="20" as="geometry" />
         </mxCell>
@@ -372,9 +369,6 @@
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-130" value="&lt;div&gt;Contactor 7&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="404.38" y="810" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-131" value="&lt;div&gt;Contactor 8&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="404.38" y="850" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-133" value="MCB 1 Phasa" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="404.38" y="520" width="120" height="30" as="geometry" />
