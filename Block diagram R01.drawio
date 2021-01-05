@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T08:10:01.927Z" agent="5.0 (Windows)" etag="jd8hzrjfr0h4VZTR_v4X" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-05T08:11:58.982Z" agent="5.0 (Windows)" etag="8FL-Y7INWedufAmRheyJ" version="14.1.1" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
-    <mxGraphModel dx="2712" dy="2720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1382" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,16 +185,16 @@
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-48" value="Relay 8" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="350" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-51" value="&lt;div&gt;Fan 2 - 5&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-51" value="&lt;div&gt;Fan 2 - 5&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="670" y="610" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-52" value="Cooling Pad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-52" value="Cooling Pad" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="670" y="770" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-53" value="Heater" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-53" value="Heater" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="670" y="810" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-54" value="Alarm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-54" value="Alarm" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="670" y="850" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-57" edge="1">
@@ -215,9 +215,6 @@
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-59" value="LED Indikator" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="404.38" y="80" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-60" value="Server" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="415" y="-240" width="115" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="396" y="190" as="targetPoint" />
@@ -229,7 +226,7 @@
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-63" value="" style="endArrow=classic;startArrow=classic;html=1;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="190" as="sourcePoint" />
-            <mxPoint x="430" y="30" as="targetPoint" />
+            <mxPoint x="430" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-64" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -244,7 +241,7 @@
             <mxPoint x="508.6100000000006" y="158" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-66" value="Fan 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-66" value="Fan 1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="670" y="570" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-67" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
