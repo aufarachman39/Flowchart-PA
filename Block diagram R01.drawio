@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T08:22:07.727Z" agent="5.0 (Windows)" etag="-LLolUshZqxoiufrqPHe" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-05T08:22:37.189Z" agent="5.0 (Windows)" etag="MQM_kYybP_r-4Ky6Z-sA" version="14.1.1" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
     <mxGraphModel dx="1626" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -365,7 +365,7 @@
           <mxGeometry x="50" y="875" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-134" value="iRCP" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="970" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="1040" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-139" value="Relay" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="605" y="850" width="120" height="30" as="geometry" />
@@ -446,6 +446,9 @@
         </mxCell>
         <mxCell id="KyVM4W5usUBt5mMvMi2F-33" value="&lt;div&gt;Motor Breaker 7&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KyVM4W5usUBt5mMvMi2F-35" value="Relay" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="920" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
