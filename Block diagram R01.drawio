@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T09:17:52.722Z" agent="5.0 (Windows)" etag="pIXkeHPCPOPqzUZdq9mq" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-05T09:40:56.678Z" agent="5.0 (Windows)" etag="wP3i5KhQVCJ0GcOfJj2q" version="14.1.1" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
-    <mxGraphModel dx="1492" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2712" dy="2720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,18 +107,6 @@
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-48" value="Relay 8" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="350" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-51" value="&lt;div&gt;Fan 2 - 5&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="1155" y="615" width="120" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-52" value="Cooling Pad" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="1155" y="775" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-53" value="Heater" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="1155" y="815" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-54" value="Alarm" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="1155" y="855" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="KyVM4W5usUBt5mMvMi2F-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="155.019417475728" y="290" as="targetPoint" />
@@ -158,9 +146,6 @@
             <mxPoint x="508.6100000000006" y="195" as="sourcePoint" />
             <mxPoint x="508.6100000000006" y="158" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-66" value="Fan 1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="1155" y="575" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-67" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -521,13 +506,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KyVM4W5usUBt5mMvMi2F-84" value="Fan 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="940" y="575" width="40" height="20" as="geometry" />
+          <mxGeometry x="920" y="577.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KyVM4W5usUBt5mMvMi2F-85" value="Fan 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="940" y="630" width="40" height="20" as="geometry" />
+          <mxGeometry x="920" y="632.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KyVM4W5usUBt5mMvMi2F-86" value="Fan 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="940" y="680" width="40" height="20" as="geometry" />
+          <mxGeometry x="920" y="682.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyVM4W5usUBt5mMvMi2F-87" value="Fan 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="732.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyVM4W5usUBt5mMvMi2F-88" value="Fan 5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="782.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyVM4W5usUBt5mMvMi2F-89" value="Cooling Pad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="832.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyVM4W5usUBt5mMvMi2F-90" value="Heater" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="882.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyVM4W5usUBt5mMvMi2F-91" value="Alarm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="932.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
