@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T08:26:52.916Z" agent="5.0 (Windows)" etag="603gVYjSrCfHXD6SnXBb" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-05T08:45:18.660Z" agent="5.0 (Windows)" etag="VB5r3tuEMc2rIQ-Hiv4D" version="14.1.1" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
     <mxGraphModel dx="1382" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -444,6 +444,21 @@
         </mxCell>
         <mxCell id="KyVM4W5usUBt5mMvMi2F-36" value="Switch Selector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="620" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyVM4W5usUBt5mMvMi2F-37" value="Switch Selector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="670" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyVM4W5usUBt5mMvMi2F-38" value="Switch Selector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="720" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyVM4W5usUBt5mMvMi2F-39" value="Switch Selector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="770" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyVM4W5usUBt5mMvMi2F-40" value="Switch Selector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="820" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyVM4W5usUBt5mMvMi2F-41" value="Switch Selector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="870" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
