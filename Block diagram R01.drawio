@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T08:23:42.643Z" agent="5.0 (Windows)" etag="DSJyWfOZYwmP-TEzyjJ4" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-05T08:24:40.428Z" agent="5.0 (Windows)" etag="3lnX8cFTZYRk4F9POpvD" version="14.1.1" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
-    <mxGraphModel dx="1293" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1382" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -341,25 +341,25 @@
           <mxGeometry x="170" y="725" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-124" value="&lt;div&gt;Contactor 1&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="604.37" y="570" width="120" height="30" as="geometry" />
+          <mxGeometry x="660" y="570" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-125" value="&lt;div&gt;Contactor 2&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="604.37" y="610" width="120" height="30" as="geometry" />
+          <mxGeometry x="690" y="610" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-126" value="&lt;div&gt;Contactor 3&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="604.37" y="650" width="120" height="30" as="geometry" />
+          <mxGeometry x="690" y="650" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-127" value="&lt;div&gt;Contactor 4&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="604.37" y="690" width="120" height="30" as="geometry" />
+          <mxGeometry x="690" y="690" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-128" value="&lt;div&gt;Contactor 5&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="604.37" y="730" width="120" height="30" as="geometry" />
+          <mxGeometry x="690" y="730" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-129" value="&lt;div&gt;Contactor 6&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="604.37" y="770" width="120" height="30" as="geometry" />
+          <mxGeometry x="690" y="770" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-130" value="&lt;div&gt;Contactor 7&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="604.37" y="810" width="120" height="30" as="geometry" />
+          <mxGeometry x="690" y="810" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-133" value="MCB 1 Phasa" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="875" width="120" height="30" as="geometry" />
@@ -368,7 +368,7 @@
           <mxGeometry x="250" y="1040" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-139" value="Relay" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="605" y="850" width="120" height="30" as="geometry" />
+          <mxGeometry x="690.63" y="850" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-163" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -422,7 +422,7 @@
           <mxGeometry x="413.13" y="-20" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KyVM4W5usUBt5mMvMi2F-25" value="Switch Selector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="570" width="120" height="20" as="geometry" />
+          <mxGeometry x="460" y="570" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KyVM4W5usUBt5mMvMi2F-28" value="&lt;div&gt;Motor Breaker 2&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250.63" y="620" width="149.37" height="40" as="geometry" />
