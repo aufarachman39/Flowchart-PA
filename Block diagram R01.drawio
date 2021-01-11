@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T01:17:55.310Z" agent="5.0 (Windows)" etag="RX4kG9xGafWJTAUwqf_D" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T01:21:05.302Z" agent="5.0 (Windows)" etag="wHXkVH9DzrmB-R3WdrcN" version="14.1.8" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
-    <mxGraphModel dx="2180" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1945" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -578,11 +578,14 @@
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="-50" width="850" height="1050" as="geometry" />
         </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-6" value="&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;Climate Control&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-6" value="&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;Climate Control &lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="418.75" width="182.5" height="31.25" as="geometry" />
         </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-7" value="&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;Panel&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="37.5" y="-40" width="182.5" height="31.25" as="geometry" />
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-7" value="&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;Panel Closed House&lt;/b&gt;&lt;/font&gt; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="-40" width="222.5" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-8" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 21px&quot;&gt;Panel Power&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="626.87" y="520" width="182.5" height="31.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
