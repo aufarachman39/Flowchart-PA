@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T05:06:58.722Z" agent="5.0 (Windows)" etag="4WDE5IkZvRRT_DnFZy1L" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T05:09:30.931Z" agent="5.0 (Windows)" etag="EczWuavz4biZlJeM8ul5" version="14.1.8" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
-    <mxGraphModel dx="1804" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2233" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -908,10 +908,10 @@
             <mxPoint x="860" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-96" value="Solenoid 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-96" value="Actuator 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1270" y="1280" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-97" value="Solenoid 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-97" value="Actuator 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1270" y="1330" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-100" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=1;fillColor=none;rotation=-90;" vertex="1" parent="1">
