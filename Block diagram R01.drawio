@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T04:49:37.066Z" agent="5.0 (Windows)" etag="779KXsAchxMHydyB6hNc" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T04:51:09.242Z" agent="5.0 (Windows)" etag="oiTjnWHiCccX-skMBO0_" version="14.1.8" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
-    <mxGraphModel dx="1918" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1740" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -804,6 +804,18 @@
         </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-72" value="Motor Feeding 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="1230" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-73" value="&lt;div&gt;Motor Breaker 14&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250.63" y="1270" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-74" value="&lt;div&gt;Contactor 14&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="661.89" y="1270" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-75" value="&lt;div&gt;Motor Breaker 15&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1320" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-76" value="&lt;div&gt;Contactor 15&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="661.26" y="1320" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
