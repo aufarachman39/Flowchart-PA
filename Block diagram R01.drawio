@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T08:00:57.247Z" agent="5.0 (Windows)" etag="2sPB10C7G5RTTrkYGyXa" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T08:03:08.265Z" agent="5.0 (Windows)" etag="U7YuwrKLNsbLjhozI2gI" version="14.1.8" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
-    <mxGraphModel dx="3223" dy="3125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -841,11 +841,11 @@
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-85" value="Motor Curtain 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1332.5" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-86" value="Limit Switch 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-71.24999999999989" y="1350" width="90" height="20" as="geometry" />
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-86" value="Limit Switch 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="519.3800000000001" y="1570" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-87" value="Limit Switch 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-71.24999999999989" y="1400" width="90" height="20" as="geometry" />
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-87" value="Limit Switch 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="555.0000000000001" y="1570" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-96" value="Actuator pengunci posisi curtain&amp;nbsp; 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1382.5" width="208.11" height="20" as="geometry" />
@@ -857,19 +857,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-102" value="Sensor Proximity 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1530" width="130" height="20" as="geometry" />
+          <mxGeometry x="350" y="1570" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZWWDrjZTQDHdwo5J3Vig-104" target="ZWWDrjZTQDHdwo5J3Vig-59">
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZWWDrjZTQDHdwo5J3Vig-104" target="ZWWDrjZTQDHdwo5J3Vig-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-104" value="Sensor Proximity 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="375" y="1530" width="130" height="20" as="geometry" />
+          <mxGeometry x="375" y="1570" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZWWDrjZTQDHdwo5J3Vig-105" target="ZWWDrjZTQDHdwo5J3Vig-60">
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZWWDrjZTQDHdwo5J3Vig-105" target="ZWWDrjZTQDHdwo5J3Vig-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-105" value="Sensor Proximity 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="404.38" y="1530" width="130" height="20" as="geometry" />
+          <mxGeometry x="404.38" y="1570" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZWWDrjZTQDHdwo5J3Vig-112">
           <mxGeometry relative="1" as="geometry">
