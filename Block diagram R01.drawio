@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T07:57:50.981Z" agent="5.0 (Windows)" etag="a1dZnwm41lvnl79IU-rD" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T07:59:29.901Z" agent="5.0 (Windows)" etag="DrhnNEh8C2e-q1awK8Qm" version="14.1.8" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
-    <mxGraphModel dx="1230" dy="1424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,8 +177,9 @@
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-46" value="Relay 7" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="300" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-48" target="EQt62Dbtj5ZlUHY3P4BF-139">
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-48">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="1080" as="targetPoint" />
             <Array as="points">
               <mxPoint x="820" y="365" />
               <mxPoint x="820" y="480" />
@@ -304,43 +305,23 @@
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-101" value="&lt;div&gt;Motor Breaker 1&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="570" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-104" edge="1">
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-104">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="863" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="863" />
-              <mxPoint x="220" y="863" />
-            </Array>
+            <mxPoint x="220" y="990.1428571428573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KyVM4W5usUBt5mMvMi2F-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-104" edge="1">
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-104">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="765" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="220" y="765" />
-            </Array>
+            <mxPoint x="220" y="1200.1428571428573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KyVM4W5usUBt5mMvMi2F-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-104" edge="1">
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-104">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="668" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="668" />
-              <mxPoint x="220" y="668" />
-            </Array>
+            <mxPoint x="220" y="780.1428571428573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EQt62Dbtj5ZlUHY3P4BF-104" value="MCCB" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="570" width="130" height="840" as="geometry" />
-        </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-120" value="R" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="640" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-122" value="S" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="740" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EQt62Dbtj5ZlUHY3P4BF-123" value="T" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="840" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KyVM4W5usUBt5mMvMi2F-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EQt62Dbtj5ZlUHY3P4BF-124" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -819,8 +800,10 @@
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-72" value="Motor Feeding 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1232.5" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZWWDrjZTQDHdwo5J3Vig-73" target="ZWWDrjZTQDHdwo5J3Vig-74">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZWWDrjZTQDHdwo5J3Vig-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="1300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-73" value="&lt;div&gt;Motor Breaker 14&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250.63" y="1270" width="150" height="40" as="geometry" />
@@ -835,7 +818,7 @@
         </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZWWDrjZTQDHdwo5J3Vig-75">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="1350" as="targetPoint" />
+            <mxPoint x="640" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-75" value="&lt;div&gt;Motor Breaker 15&lt;br&gt;&lt;/div&gt;&lt;div&gt;(OCR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
