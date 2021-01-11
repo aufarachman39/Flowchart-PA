@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T05:01:27.274Z" agent="5.0 (Windows)" etag="klv9op9q5hYwxmzCNrsq" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T05:03:18.232Z" agent="5.0 (Windows)" etag="0bypV_oc12UqslG6islF" version="14.1.8" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
     <mxGraphModel dx="1519" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -835,11 +835,16 @@
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-76" value="&lt;div&gt;Contactor 15&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="661.26" y="1320" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=-0.057;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZWWDrjZTQDHdwo5J3Vig-77" target="ZWWDrjZTQDHdwo5J3Vig-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="1409.9999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1316" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-77" value="MCB 1 Phasa" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250.63" y="1370" width="149.37" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-80" value="Solenoid 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1510" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-82" value="Motor Curtain 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="1280" width="90" height="20" as="geometry" />
@@ -893,6 +898,9 @@
         </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-97" value="Solenoid 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1270" y="1330" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-100" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=1;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="1345" width="20" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
