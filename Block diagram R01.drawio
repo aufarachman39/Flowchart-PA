@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T04:29:05.910Z" agent="5.0 (Windows)" etag="ZDZxTDEDQ-Jc_Tvt0Y34" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T04:29:26.249Z" agent="5.0 (Windows)" etag="JdIDvxVcATPNntmNUnyJ" version="14.1.8" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
-    <mxGraphModel dx="2376" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1918" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -637,7 +637,7 @@
         <mxCell id="KyVM4W5usUBt5mMvMi2F-88" value="Fan 5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="920" y="782.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KyVM4W5usUBt5mMvMi2F-89" value="Motor Pump Cooling Pad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="KyVM4W5usUBt5mMvMi2F-89" value="Motor Pump Cooling Pad 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="920.63" y="932.5" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KyVM4W5usUBt5mMvMi2F-90" value="Heater" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -736,8 +736,8 @@
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-46" value="Switch Selector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="511.26" y="970" width="90.63" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-47" value="Motor Pump Cooling Pad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="921.89" y="980" width="150" height="20" as="geometry" />
+        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-47" value="Motor Pump Cooling Pad 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="980" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
