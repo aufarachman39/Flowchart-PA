@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T05:48:31.794Z" agent="5.0 (Windows)" etag="WREbvMTfRz05i5gmTk8t" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T05:53:52.240Z" agent="5.0 (Windows)" etag="hHs9cO1q6M5cOC9iIMBt" version="14.1.8" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
     <mxGraphModel dx="2206" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -944,12 +944,6 @@
         </mxCell>
         <mxCell id="ZWWDrjZTQDHdwo5J3Vig-113" value="Relay 3" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="659.37" y="1420" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-121" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#0000FF;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="480" width="875" height="1000" as="geometry" />
-        </mxCell>
-        <mxCell id="ZWWDrjZTQDHdwo5J3Vig-122" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;fillColor=none;strokeColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="31.88" y="25" width="888.12" height="445" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
