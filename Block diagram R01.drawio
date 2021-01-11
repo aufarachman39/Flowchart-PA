@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T01:21:58.058Z" agent="5.0 (Windows)" etag="IjInUIXrqB_LGkmc_98T" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T04:07:52.285Z" agent="5.0 (Windows)" etag="mP7RmL6nd-yGtJWHnJVp" version="14.1.8" type="github">
   <diagram id="2PJkBT4ptk_el_u-jBm4" name="Page-1">
-    <mxGraphModel dx="2180" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2477" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -560,8 +560,8 @@
         <mxCell id="KyVM4W5usUBt5mMvMi2F-88" value="Fan 5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="920" y="782.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KyVM4W5usUBt5mMvMi2F-89" value="Cooling Pad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="920" y="832.5" width="80" height="20" as="geometry" />
+        <mxCell id="KyVM4W5usUBt5mMvMi2F-89" value="Motor Pump Cooling Pad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="920" y="832.5" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KyVM4W5usUBt5mMvMi2F-90" value="Heater" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="920" y="882.5" width="40" height="20" as="geometry" />
