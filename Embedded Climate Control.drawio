@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T04:48:25.881Z" agent="5.0 (Windows)" etag="LFSxRAowt1SV0tK-MeCF" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T04:48:48.355Z" agent="5.0 (Windows)" etag="BZIOKy53yEO6M2PGfEz_" version="14.2.9" type="github">
   <diagram id="4b8B7t62UnRBll9i-h0t" name="Page-1">
     <mxGraphModel dx="920" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="nWrx_Je1hRrxJOOSR_ZM-9" value="&lt;div&gt;Input Set&lt;/div&gt;&lt;div&gt;Temperatur&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="650" y="420" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-10" value="&lt;div&gt;Input Set&lt;/div&gt;&lt;div&gt;Humidity&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="650" y="500" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
