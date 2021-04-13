@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T05:13:58.448Z" agent="5.0 (Windows)" etag="R8yDqzEkrvhVvD2T7J7m" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T05:20:43.041Z" agent="5.0 (Windows)" etag="rsotx7f9NG-txTzYnH5u" version="14.2.9" type="github">
   <diagram id="4b8B7t62UnRBll9i-h0t" name="Page-1">
     <mxGraphModel dx="920" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="nWrx_Je1hRrxJOOSR_ZM-6" value="Ventilation?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="130.25" y="390" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-7" value="&lt;div&gt;- Temp &amp;amp; Hum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Fan Stage&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Timer&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="412.5" width="130" height="55" as="geometry" />
+        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-7" value="&lt;div align=&quot;left&quot;&gt;- Temp &amp;amp; Hum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Fan &amp;amp; Cooling&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Timer&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="412.5" width="130" height="55" as="geometry" />
         </mxCell>
         <mxCell id="nWrx_Je1hRrxJOOSR_ZM-8" value="Temp &amp;amp; Hum?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="510" y="390" width="100" height="100" as="geometry" />
@@ -28,23 +28,29 @@
         <mxCell id="nWrx_Je1hRrxJOOSR_ZM-10" value="&lt;div&gt;Set&lt;/div&gt;&lt;div&gt;Humidity&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="650" y="500" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-11" value="Fan Stage?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-11" value="&lt;div&gt;Fan &amp;amp;&lt;/div&gt;&lt;div&gt;Cooling&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="510" y="584" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-12" value="&lt;div&gt;Fan Stage &lt;br&gt;&lt;/div&gt;&lt;div&gt;1 - 7&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-12" value="&lt;div&gt;Set Fan Stage &lt;br&gt;&lt;/div&gt;&lt;div&gt;1 - 7&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="640" y="609" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nWrx_Je1hRrxJOOSR_ZM-14" value="Timer?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="510" y="730" width="100" height="100" as="geometry" />
+          <mxGeometry x="510" y="790" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nWrx_Je1hRrxJOOSR_ZM-15" value="Cooling ON OFF" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="640" y="755" width="140" height="50" as="geometry" />
+          <mxGeometry x="640" y="815" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nWrx_Je1hRrxJOOSR_ZM-18" value="Fan ON OFF" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="640" y="850" width="140" height="50" as="geometry" />
+          <mxGeometry x="640" y="910" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-19" value="Ventilation?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="130.25" y="920" width="100" height="100" as="geometry" />
+        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-19" value="Heater?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130.25" y="980" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-20" value="Fan ON OFF" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1005" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-21" value="&lt;div&gt;Set Cooling&lt;/div&gt;&lt;div&gt;Temp&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="640" y="690" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
