@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T05:57:21.150Z" agent="5.0 (Windows)" etag="NVs9_zhHFnCTC-FH0d1B" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-13T05:59:14.357Z" agent="5.0 (Windows)" etag="Du0BJBXc_z06UfdzCQY6" version="14.2.9" type="github" pages="2">
   <diagram id="4b8B7t62UnRBll9i-h0t" name="Page-1">
-    <mxGraphModel dx="920" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TdWUJ9EXBeLseCG-eQnj" name="Page-2">
-    <mxGraphModel dx="920" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="h6OBlaPpjyU8gjd-Jo_i-0" />
         <mxCell id="h6OBlaPpjyU8gjd-Jo_i-1" parent="h6OBlaPpjyU8gjd-Jo_i-0" />
@@ -174,6 +174,12 @@
         </mxCell>
         <mxCell id="vcF4Sdy9Aw-5GSRF7LcF-0" value="&lt;div align=&quot;left&quot;&gt;- Alarm Temperatur&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Alarm Humidity&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="h6OBlaPpjyU8gjd-Jo_i-1">
           <mxGeometry x="310" y="132.5" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="uHHXsPu6_Q2njZJclEak-0" value="Alarm Temp?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="h6OBlaPpjyU8gjd-Jo_i-1">
+          <mxGeometry x="511.5" y="110" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I1gLXuCLiuijGyX4ChSo-0" value="&lt;div&gt;Set High Low&lt;/div&gt;&lt;div&gt;Temperature&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="h6OBlaPpjyU8gjd-Jo_i-1">
+          <mxGeometry x="660" y="140" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
