@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T03:57:16.110Z" agent="5.0 (Windows)" etag="EOY_q9TIu0uAVk2gY35P" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T03:58:58.324Z" agent="5.0 (Windows)" etag="RMMKM_UYXD8tB7zRAs2_" version="14.2.9" type="github">
   <diagram id="4b8B7t62UnRBll9i-h0t" name="Page-1">
     <mxGraphModel dx="920" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="nWrx_Je1hRrxJOOSR_ZM-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="50" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-3" value="&lt;div&gt;&amp;nbsp;Present Temp&lt;/div&gt;&lt;div&gt;Present Hum&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="393" y="110" width="100" height="60" as="geometry" />
+        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-3" value="&lt;div&gt;&amp;nbsp;Act &amp;amp; Set Temp&lt;/div&gt;&lt;div&gt;Act &amp;amp; Set Hum&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="369.5" y="110" width="147" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
