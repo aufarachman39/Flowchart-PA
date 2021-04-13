@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T05:36:05.868Z" agent="5.0 (Windows)" etag="6AvZZWLqV8Nt8ua3Pp4l" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T05:41:11.676Z" agent="5.0 (Windows)" etag="TKGZyXLkVLwdw_Zd16CB" version="14.2.9" type="github" pages="2">
   <diagram id="4b8B7t62UnRBll9i-h0t" name="Page-1">
-    <mxGraphModel dx="1117" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="447" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,8 +146,25 @@
         <mxCell id="nWrx_Je1hRrxJOOSR_ZM-23" value="Fan ON OFF" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="306.5" y="950" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-26" value="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;" vertex="1" parent="1">
+        <mxCell id="nWrx_Je1hRrxJOOSR_ZM-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="161.75" y="1030" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QMBY_lO8hjQZF_Znumtl-2" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="170.25" y="1040" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TdWUJ9EXBeLseCG-eQnj" name="Page-2">
+    <mxGraphModel dx="539" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="h6OBlaPpjyU8gjd-Jo_i-0" />
+        <mxCell id="h6OBlaPpjyU8gjd-Jo_i-1" parent="h6OBlaPpjyU8gjd-Jo_i-0" />
+        <mxCell id="o5buQlNejrMmVNB2-Ss6-0" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;" vertex="1" parent="h6OBlaPpjyU8gjd-Jo_i-1">
+          <mxGeometry x="160" y="50" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_qqAqGQEcrAQsNjFySTY-4" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="h6OBlaPpjyU8gjd-Jo_i-1">
+          <mxGeometry x="170" y="60" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
