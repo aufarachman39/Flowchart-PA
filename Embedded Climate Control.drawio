@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T06:25:00.893Z" agent="5.0 (Windows)" etag="kPAo_86Xf5NUUvfZpTUE" version="14.2.9" type="github" pages="2">
-  <diagram id="4b8B7t62UnRBll9i-h0t" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-04-13T06:26:44.113Z" agent="5.0 (Windows)" etag="moQssNeJOuAjmzPROxOZ" version="14.2.9" type="github" pages="3">
+  <diagram id="4b8B7t62UnRBll9i-h0t" name="Setting">
     <mxGraphModel dx="1117" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -192,7 +192,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="TdWUJ9EXBeLseCG-eQnj" name="Page-2">
+  <diagram id="TdWUJ9EXBeLseCG-eQnj" name="Setting_2">
     <mxGraphModel dx="1117" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="h6OBlaPpjyU8gjd-Jo_i-0" />
@@ -399,6 +399,14 @@
         <mxCell id="ePV004ADgLJGVgiXOKiL-7" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="h6OBlaPpjyU8gjd-Jo_i-1">
           <mxGeometry x="560" y="600" width="30" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8rQ67WbAH-wPANk1z33q" name="Page-3">
+    <mxGraphModel dx="782" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="grCN7Rj_Who8e2niWfTL-0" />
+        <mxCell id="grCN7Rj_Who8e2niWfTL-1" parent="grCN7Rj_Who8e2niWfTL-0" />
       </root>
     </mxGraphModel>
   </diagram>
