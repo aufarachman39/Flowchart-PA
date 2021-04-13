@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T06:46:19.166Z" agent="5.0 (Windows)" etag="AYenUZjoPkKdLpsEPSD9" version="14.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-13T06:46:39.834Z" agent="5.0 (Windows)" etag="BskR9AV9fzU9--CKfolj" version="14.2.9" type="github" pages="3">
   <diagram id="4b8B7t62UnRBll9i-h0t" name="Setting">
     <mxGraphModel dx="1303" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -443,7 +443,7 @@
         <mxCell id="m0ZayNSTSmsR1GshKhx5-8" value="&lt;div&gt;Temp &amp;gt;=&lt;/div&gt;&lt;div&gt;Fan Stage&lt;/div&gt;&lt;div&gt;4&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="grCN7Rj_Who8e2niWfTL-1">
           <mxGeometry x="425" y="584" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="m0ZayNSTSmsR1GshKhx5-9" value="Fan Stage 1 On" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="grCN7Rj_Who8e2niWfTL-1">
+        <mxCell id="m0ZayNSTSmsR1GshKhx5-9" value="Fan Stage 4 On" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="grCN7Rj_Who8e2niWfTL-1">
           <mxGeometry x="590" y="604" width="190" height="50" as="geometry" />
         </mxCell>
       </root>
